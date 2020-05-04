@@ -1,0 +1,45 @@
+var _types_8h =
+[
+    [ "flexibleJointData_t", "structjiminy_1_1flexible_joint_data__t.html", "structjiminy_1_1flexible_joint_data__t" ],
+    [ "sensorDataTypePair_t", "structjiminy_1_1sensor_data_type_pair__t.html", "structjiminy_1_1sensor_data_type_pair__t" ],
+    [ "IndexByName", "structjiminy_1_1_index_by_name.html", null ],
+    [ "IndexByIdx", "structjiminy_1_1_index_by_idx.html", null ],
+    [ "blockXpr", "_types_8h.html#ac6fc44d9bc7bc197d372cd5ef50a9928", null ],
+    [ "bool_t", "_types_8h.html#a657bfa5b7dc90eaa838a5f28cfeee2b9", null ],
+    [ "char_t", "_types_8h.html#a57560d75f7a7c6f4200cf6558f96d6aa", null ],
+    [ "configField_t", "_types_8h.html#af245bb27a5edef775753750ff58349e6", null ],
+    [ "configHolder_t", "_types_8h.html#a62130a58eda5a95bf7ddfbe1786e7e35", null ],
+    [ "constBlockXpr", "_types_8h.html#aa9db479b068ebf6013544a9a52860dcc", null ],
+    [ "flexibilityConfig_t", "_types_8h.html#aa7435d7f56a44b270677d3f12066a3e1", null ],
+    [ "float32_t", "_types_8h.html#a3c566e3b308ce40d6730a9d612ec1222", null ],
+    [ "float64_t", "_types_8h.html#ad2163c75166fec185a95f7367cc60340", null ],
+    [ "forceVector_t", "_types_8h.html#a8524522ddd33093870e6193384e4de0c", null ],
+    [ "heatMapFunctor_t", "_types_8h.html#a1d9b75183e57971f7cc9ea4703655ef5", null ],
+    [ "matrix3_t", "_types_8h.html#a37792690839bfd320ecf187ff924b3ba", null ],
+    [ "matrixN_t", "_types_8h.html#a3ad0ee2093264f992555e86f2b5e1d72", null ],
+    [ "quaternion_t", "_types_8h.html#afffa233210b404b3421e02516a9d3688", null ],
+    [ "rowN_t", "_types_8h.html#a7c0afdaca1947a7e628602c6db2e2694", null ],
+    [ "sensorDataTypeMap_t", "_types_8h.html#ae0766894e655a387a636d59b59b334d7", null ],
+    [ "sensorsDataMap_t", "_types_8h.html#a761d75a903332bcc7ff908436bb8d27e", null ],
+    [ "static_map_t", "_types_8h.html#a8bc7970e0880580074fee439076cf637", null ],
+    [ "vector3_t", "_types_8h.html#a0664f5874479821952f2b7994f665094", null ],
+    [ "vector6_t", "_types_8h.html#af5c810f276304e238fadd33f1c337725", null ],
+    [ "vectorN_t", "_types_8h.html#ac96096334c5aed161080e1c8da902f19", null ],
+    [ "hresult_t", "_types_8h.html#a1f5b314d860dfb446da629020e9d85a3", [
+      [ "SUCCESS", "_types_8h.html#a1f5b314d860dfb446da629020e9d85a3ad0749aaba8b833466dfcbb0428e4f89c", null ],
+      [ "ERROR_GENERIC", "_types_8h.html#a1f5b314d860dfb446da629020e9d85a3a8e5a7607fe3b773fbb9da60a752bf2e4", null ],
+      [ "ERROR_BAD_INPUT", "_types_8h.html#a1f5b314d860dfb446da629020e9d85a3a9cc6d3081074d7fa4b2525366e22a396", null ],
+      [ "ERROR_INIT_FAILED", "_types_8h.html#a1f5b314d860dfb446da629020e9d85a3a9ff9815e940b9fac2292dd2b8ae812ac", null ]
+    ] ],
+    [ "joint_t", "_types_8h.html#ae71d5119fc2ec65f79719ec2fb555cea", [
+      [ "NONE", "_types_8h.html#ae71d5119fc2ec65f79719ec2fb555ceaab50339a10e1de285ac99d4c3990b8693", null ],
+      [ "LINEAR", "_types_8h.html#ae71d5119fc2ec65f79719ec2fb555ceaaaac544aacc3615aada24897a215f5046", null ],
+      [ "ROTARY", "_types_8h.html#ae71d5119fc2ec65f79719ec2fb555ceaa5da2cb3c6d3108f50fdb99d9d3871414", null ],
+      [ "PLANAR", "_types_8h.html#ae71d5119fc2ec65f79719ec2fb555ceaa537304b851a585f4a26b71f5c40ce40b", null ],
+      [ "SPHERICAL", "_types_8h.html#ae71d5119fc2ec65f79719ec2fb555ceaa7f7d7e3a21bf7decf99d6fd26848772d", null ],
+      [ "FREE", "_types_8h.html#ae71d5119fc2ec65f79719ec2fb555ceaa88c189a42c87aa49d667fc8ab76bc323", null ]
+    ] ],
+    [ "EPS", "_types_8h.html#ae4b196586811d19d8cac983d1b31fd9f", null ],
+    [ "INF", "_types_8h.html#a0fea163c4bbe47a773da733f5bd55ddb", null ],
+    [ "qNAN", "_types_8h.html#aad36b2cf5bde4bf6f63d1702e10d1544", null ]
+];

@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$structjiminy_1_1is__eigen_3_01_t_00_01typename_01std_1_1enable__if_3_01is_eigen_object_3_01_t_01_4_1_1value_01_4_1_1type_01_4.html" title="jiminy::is_eigen\&lt; T,\l typename std::enable\l_if\&lt; isEigenObject\&lt; T\l \&gt;::value \&gt;::type \&gt;" alt="" coords="141,5,292,76"/>
+<area shape="rect" id="node3" href="$structjiminy_1_1is__eigen__vector_3_01_t_00_01typename_01std_1_1enable__if_3_01is_eigen_vector_31f15da7a28ec1e767f4b1a5f780df70e.html" title="jiminy::is_eigen_vector\l\&lt; T, typename std::enable\l_if\&lt; isEigenVector\&lt; T \&gt;::\lvalue \&gt;::type \&gt;" alt="" coords="129,100,304,171"/>
+<area shape="rect" id="node4" href="$structjiminy_1_1is__map_3_01_t_00_01typename_01std_1_1enable__if_3_01is_map_3_01_t_01_4_1_1value_01_4_1_1type_01_4.html" title="jiminy::is_map\&lt; T,\l typename std::enable\l_if\&lt; isMap\&lt; T \&gt;::value\l \&gt;::type \&gt;" alt="" coords="139,195,294,265"/>
+<area shape="rect" id="node5" href="$structjiminy_1_1is__vector_3_01std_1_1vector_3_01_t_01_4_01_4.html" title="jiminy::is_vector\&lt;\l std::vector\&lt; T \&gt; \&gt;" alt="" coords="151,289,283,331"/>
+</map>

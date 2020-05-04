@@ -1,0 +1,10 @@
+<map id="core/src/robot/BasicMotors.cc" name="core/src/robot/BasicMotors.cc">
+<area shape="rect" id="node5" href="$_utilities_8h.html" title="jiminy/core/Utilities.h" alt="" coords="1799,169,1943,196"/>
+<area shape="rect" id="node33" href="$_basic_motors_8h.html" title="jiminy/core/robot/BasicMotors.h" alt="" coords="1768,87,1975,114"/>
+<area shape="rect" id="node9" href="$_types_8h.html" title="jiminy/core/Types.h" alt="" coords="1493,483,1629,509"/>
+<area shape="rect" id="node27" href="$_utilities_8tpp.html" title="jiminy/core/Utilities.tpp" alt="" coords="1975,244,2130,271"/>
+<area shape="rect" id="node30" href="$_json_writer_8h.html" title="jiminy/core/io/JsonWriter.h" alt="" coords="1975,319,2152,345"/>
+<area shape="rect" id="node31" href="$_abstract_i_o_device_8h.html" title="jiminy/core/io/AbstractIODevice.h" alt="" coords="1934,401,2153,427"/>
+<area shape="rect" id="node32" href="$_abstract_i_o_device_8tpp.html" title="AbstractIODevice.tpp" alt="" coords="2495,483,2643,509"/>
+<area shape="rect" id="node34" href="$_abstract_motor_8h.html" title="jiminy/core/robot/Abstract\lMotor.h" alt="" coords="1475,393,1646,435"/>
+</map>

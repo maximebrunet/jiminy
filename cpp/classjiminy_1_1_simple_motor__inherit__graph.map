@@ -1,0 +1,3 @@
+<map id="jiminy::SimpleMotor" name="jiminy::SimpleMotor">
+<area shape="rect" id="node2" href="$classjiminy_1_1_abstract_motor_base.html" title="{jiminy::AbstractMotorBase\n|+ baseMotorOptions_\l# motorOptionsHolder_\l# isInitialized_\l# isAttached_\l# robot_\l# name_\l# motorIdx_\l# jointName_\l# jointModelIdx_\l# jointType_\l# jointPositionIdx_\l# jointVelocityIdx_\l# effortLimit_\l# rotorInertia_\l&#45; Robot\l&#45; sharedHolder_\l|+ AbstractMotorBase()\l+ operator=()\l+ AbstractMotorBase()\l+ ~AbstractMotorBase()\l+ refreshProxies()\l+ resetAll()\l+ getOptions()\l+ get()\l+ getAll()\l+ setOptions()\land 13 more...\l# getDefaultMotorOptions()\l# data()\l&#45; attach()\l&#45; detach()\l}" alt="" coords="25,145,204,648"/>
+</map>

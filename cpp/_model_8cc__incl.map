@@ -1,0 +1,10 @@
+<map id="core/src/robot/Model.cc" name="core/src/robot/Model.cc">
+<area shape="rect" id="node9" href="$_utilities_8h.html" title="jiminy/core/Utilities.h" alt="" coords="519,87,663,114"/>
+<area shape="rect" id="node37" href="$_constants_8h.html" title="jiminy/core/Constants.h" alt="" coords="740,87,900,114"/>
+<area shape="rect" id="node39" href="$_model_8h.html" title="jiminy/core/robot/Model.h" alt="" coords="924,87,1092,114"/>
+<area shape="rect" id="node13" href="$_types_8h.html" title="jiminy/core/Types.h" alt="" coords="863,408,999,435"/>
+<area shape="rect" id="node31" href="$_utilities_8tpp.html" title="jiminy/core/Utilities.tpp" alt="" coords="112,177,267,203"/>
+<area shape="rect" id="node34" href="$_json_writer_8h.html" title="jiminy/core/io/JsonWriter.h" alt="" coords="251,259,429,285"/>
+<area shape="rect" id="node35" href="$_abstract_i_o_device_8h.html" title="jiminy/core/io/AbstractIODevice.h" alt="" coords="213,333,432,360"/>
+<area shape="rect" id="node36" href="$_abstract_i_o_device_8tpp.html" title="AbstractIODevice.tpp" alt="" coords="214,408,362,435"/>
+</map>

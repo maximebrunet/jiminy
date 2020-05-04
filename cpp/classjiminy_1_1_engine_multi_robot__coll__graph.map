@@ -1,0 +1,4 @@
+<map id="jiminy::EngineMultiRobot" name="jiminy::EngineMultiRobot">
+<area shape="rect" id="node2" href="$classjiminy_1_1_telemetry_sender.html" title="Class to inherit if you want to send telemetry data. " alt="" coords="5,5,168,317"/>
+<area shape="rect" id="node3" href="$structjiminy_1_1stepper_state__t.html" title="{jiminy::stepperState_t\n|+ iter\l+ iterFailed\l+ t\l+ tPrev\l+ tError\l+ dt\l+ dtLargest\l+ dtLargestPrev\l+ x\l+ dxdt\l|+ stepperState_t()\l+ reset()\l}" alt="" coords="192,49,341,273"/>
+</map>

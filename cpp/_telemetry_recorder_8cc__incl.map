@@ -1,0 +1,12 @@
+<map id="core/src/telemetry/TelemetryRecorder.cc" name="core/src/telemetry/TelemetryRecorder.cc">
+<area shape="rect" id="node5" href="$_file_device_8h.html" title="jiminy/core/io/FileDevice.h" alt="" coords="1887,191,2063,218"/>
+<area shape="rect" id="node27" href="$_telemetry_data_8h.html" title="jiminy/core/telemetry\l/TelemetryData.h" alt="" coords="2347,184,2490,225"/>
+<area shape="rect" id="node31" href="$_constants_8h.html" title="jiminy/core/Constants.h" alt="" coords="1721,102,1881,129"/>
+<area shape="rect" id="node32" href="$_telemetry_recorder_8h.html" title="jiminy/core/telemetry\l/TelemetryRecorder.h" alt="" coords="1547,95,1695,136"/>
+<area shape="rect" id="node7" href="$_abstract_i_o_device_8h.html" title="jiminy/core/io/AbstractIODevice.h" alt="" coords="1505,281,1724,307"/>
+<area shape="rect" id="node9" href="$_types_8h.html" title="jiminy/core/Types.h" alt="" coords="1609,363,1745,389"/>
+<area shape="rect" id="node26" href="$_abstract_i_o_device_8tpp.html" title="AbstractIODevice.tpp" alt="" coords="1343,363,1491,389"/>
+<area shape="rect" id="node29" href="$_telemetry_sender_8h.html" title="jiminy/core/telemetry\l/TelemetrySender.h" alt="" coords="2266,273,2409,315"/>
+<area shape="rect" id="node30" href="$_telemetry_data_8tpp.html" title="TelemetryData.tpp" alt="" coords="2433,281,2564,307"/>
+<area shape="rect" id="node33" href="$_memory_device_8h.html" title="jiminy/core/io/MemoryDevice.h" alt="" coords="1517,191,1720,218"/>
+</map>

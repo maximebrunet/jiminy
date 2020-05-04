@@ -1,0 +1,9 @@
+<map id="core/include/jiminy/core/robot/AbstractMotor.h" name="core/include/jiminy/core/robot/AbstractMotor.h">
+<area shape="rect" id="node2" href="$_basic_motors_8h.html" title="core/include/jiminy\l/core/robot/BasicMotors.h" alt="" coords="25,95,197,136"/>
+<area shape="rect" id="node4" href="$_basic_sensors_8h.html" title="core/include/jiminy\l/core/robot/BasicSensors.h" alt="" coords="233,95,413,136"/>
+<area shape="rect" id="node6" href="$_engine_multi_robot_8cc.html" title="core/src/engine/EngineMulti\lRobot.cc" alt="" coords="437,95,619,136"/>
+<area shape="rect" id="node7" href="$_abstract_motor_8cc.html" title="core/src/robot/AbstractMotor.cc" alt="" coords="643,102,850,129"/>
+<area shape="rect" id="node8" href="$_robot_8cc.html" title="core/src/robot/Robot.cc" alt="" coords="874,102,1033,129"/>
+<area shape="rect" id="node3" href="$_basic_motors_8cc.html" title="core/src/robot/BasicMotors.cc" alt="" coords="5,184,203,211"/>
+<area shape="rect" id="node5" href="$_basic_sensors_8cc.html" title="core/src/robot/BasicSensors.cc" alt="" coords="227,184,432,211"/>
+</map>

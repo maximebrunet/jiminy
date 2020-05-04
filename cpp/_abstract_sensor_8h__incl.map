@@ -1,0 +1,13 @@
+<map id="core/include/jiminy/core/robot/AbstractSensor.h" name="core/include/jiminy/core/robot/AbstractSensor.h">
+<area shape="rect" id="node2" href="$_telemetry_sender_8h.html" title="jiminy/core/telemetry\l/TelemetrySender.h" alt="" coords="1213,497,1356,539"/>
+<area shape="rect" id="node5" href="$_types_8h.html" title="jiminy/core/Types.h" alt="" coords="1415,587,1551,613"/>
+<area shape="rect" id="node22" href="$_abstract_sensor_8tpp.html" title="jiminy/core/robot/Abstract\lSensor.tpp" alt="" coords="1439,95,1610,136"/>
+<area shape="rect" id="node23" href="$_robot_8h.html" title="jiminy/core/robot/Robot.h" alt="" coords="1645,184,1813,211"/>
+<area shape="rect" id="node27" href="$_utilities_8h.html" title="jiminy/core/Utilities.h" alt="" coords="1958,259,2102,285"/>
+<area shape="rect" id="node38" href="$_constants_8h.html" title="jiminy/core/Constants.h" alt="" coords="1445,184,1605,211"/>
+<area shape="rect" id="node24" href="$_model_8h.html" title="jiminy/core/robot/Model.h" alt="" coords="1607,259,1775,285"/>
+<area shape="rect" id="node31" href="$_utilities_8tpp.html" title="jiminy/core/Utilities.tpp" alt="" coords="2494,341,2649,367"/>
+<area shape="rect" id="node35" href="$_json_writer_8h.html" title="jiminy/core/io/JsonWriter.h" alt="" coords="2483,423,2660,449"/>
+<area shape="rect" id="node36" href="$_abstract_i_o_device_8h.html" title="jiminy/core/io/AbstractIODevice.h" alt="" coords="2411,505,2630,531"/>
+<area shape="rect" id="node37" href="$_abstract_i_o_device_8tpp.html" title="AbstractIODevice.tpp" alt="" coords="2400,587,2548,613"/>
+</map>

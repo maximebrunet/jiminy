@@ -1,0 +1,15 @@
+<map id="core/src" name="core/src">
+<area shape="rect" id="node2" href="dir_381d26d48ab890770d51adf923239833.html" title="control" alt="" coords="427,63,499,111"/>
+<area shape="rect" id="node7" href="dir_24d671cfcbc5d5238a6bd565a49d198f.html" title="include" alt="" coords="235,159,307,207"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000010_000001.html" title="4" alt="" coords="323,170,331,185"/>
+<area shape="rect" id="node3" href="dir_adbdc2a840d4b59018a85feaf3571547.html" title="engine" alt="" coords="331,63,403,111"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000011_000001.html" title="14" alt="" coords="307,144,321,159"/>
+<area shape="rect" id="node4" href="dir_a9c5a0036f769f57e3ab4b649baa6424.html" title="io" alt="" coords="235,63,307,111"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000012_000001.html" title="5" alt="" coords="275,133,283,147"/>
+<area shape="rect" id="node5" href="dir_c9dd42420e7f5f6e7851dbcd5507fbc2.html" title="robot" alt="" coords="139,63,211,111"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000013_000001.html" title="25" alt="" coords="232,132,247,147"/>
+<area shape="rect" id="node6" href="dir_d4a0e1dd6b6e69422b59624651dcd52f.html" title="telemetry" alt="" coords="38,63,114,111"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000014_000001.html" title="8" alt="" coords="215,154,223,169"/>
+<area shape="rect" id="clust2" href="dir_90fd98a0ba30abf7a6068a44995d2d6b.html" alt="" coords="27,52,605,121"/>
+<area shape="rect" id="clust1" href="dir_4270bfced15e0e73154b13468c7c9ad9.html" title="core" alt="" coords="16,16,616,132"/>
+</map>

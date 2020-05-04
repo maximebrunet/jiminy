@@ -1,0 +1,3 @@
+<map id="jiminy::EngineMultiRobot" name="jiminy::EngineMultiRobot">
+<area shape="rect" id="node2" href="$classjiminy_1_1_engine.html" title="{jiminy::Engine\n|# isInitialized_\l# robot_\l# controller_\l|+ Engine()\l+ operator=()\l+ Engine()\l+ ~Engine()\l+ initialize()\l+ start()\l+ simulate()\l+ registerForceImpulse()\l+ registerForceProfile()\l+ getIsInitialized()\l+ getRobot()\l+ getRobot()\l+ getController()\l+ getController()\l+ getSystemState()\l}" alt="" coords="25,703,189,1015"/>
+</map>

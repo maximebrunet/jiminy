@@ -1,0 +1,9 @@
+<map id="core/include/jiminy/core/robot/Robot.h" name="core/include/jiminy/core/robot/Robot.h">
+<area shape="rect" id="node2" href="$_model_8h.html" title="jiminy/core/robot/Model.h" alt="" coords="1655,95,1823,121"/>
+<area shape="rect" id="node5" href="$_types_8h.html" title="jiminy/core/Types.h" alt="" coords="1493,408,1629,435"/>
+<area shape="rect" id="node23" href="$_utilities_8h.html" title="jiminy/core/Utilities.h" alt="" coords="2082,95,2226,121"/>
+<area shape="rect" id="node27" href="$_utilities_8tpp.html" title="jiminy/core/Utilities.tpp" alt="" coords="2577,177,2731,203"/>
+<area shape="rect" id="node31" href="$_json_writer_8h.html" title="jiminy/core/io/JsonWriter.h" alt="" coords="2409,259,2587,285"/>
+<area shape="rect" id="node32" href="$_abstract_i_o_device_8h.html" title="jiminy/core/io/AbstractIODevice.h" alt="" coords="2389,333,2607,360"/>
+<area shape="rect" id="node33" href="$_abstract_i_o_device_8tpp.html" title="AbstractIODevice.tpp" alt="" coords="2400,408,2548,435"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="jiminy::Model" name="jiminy::Model">
+<area shape="rect" id="node2" href="$classjiminy_1_1_robot.html" title="{jiminy::Robot\n|# isTelemetryConfigured_\l# telemetryData_\l# motorsHolder_\l# sensorsGroupHolder_\l# sensorTelemetryOptions_\l# motorsNames_\l# sensorsNames_\l# motorEffortFieldnames_\l# nmotors_\l# constraintsHolder_\l# constraintsJacobian_\l# constraintsDrift_\l&#45; mutexLocal_\l&#45; motorsSharedHolder_\l&#45; sensorsSharedHolder_\l|+ Robot()\l+ operator=()\l+ Robot()\l+ ~Robot()\l+ initialize()\l+ attachMotor()\l+ getMotor()\l+ getMotor()\l+ getMotors()\l+ detachMotor()\land 54 more...\l# refreshMotorsProxies()\l# refreshSensorsProxies()\l# refreshConstraintsProxies()\l# refreshProxies()\l}" alt="" coords="12,688,204,1176"/>
+</map>
